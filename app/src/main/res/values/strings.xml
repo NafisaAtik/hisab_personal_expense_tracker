@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Hisab</string>
+    <string name="total_balance">Total Balance</string>
+    <string name="total_income">Total Income</string>
+    <string name="total_expenses">Total Expenses</string>
+    <string name="add_transaction">Add Transaction</string>
+    <string name="recent_transactions">Recent Transactions</string>
+    <string name="transaction_title_label">Description</string>
+    <string name="transaction_title_hint">e.g. Groceries, Monthly Salary</string>
+    <string name="amount_label">Amount</string>
+    <string name="amount_hint">0.00</string>
+    <string name="category_label">Category</string>
+    <string name="filter_all">All</string>
+    <string name="type_expense">Expense</string>
+    <string name="type_income">Income</string>
+    <string name="delete_transaction_cd">Delete transaction</string>
+    <string name="empty_transactions_title">No transactions yet</string>
+    <string name="empty_transactions_subtitle">Record an income or expense above to start tracking your balance.</string>
+    <string name="empty_filtered_title">No transactions in %1$s</string>
+    <string name="show_all_categories">Show All</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "Hisab",
+  "description": "Hisab — Minimalist personal expense tracker and wealth ledger with BDT (৳) formatting, category filtering, and local persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
